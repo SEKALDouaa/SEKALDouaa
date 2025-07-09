@@ -19,8 +19,8 @@ Currently pursuing my degree and expanding my knowledge in data science, AI, and
 
 ## 🛠️ Technical Skills
 
-- **Languages:** Python, Java, HTML, CSS
-- **Frameworks/Libraries:** Angular, Spring, Bootstrap
+- **Languages:** Python, Java, HTML, CSS, C
+- **Frameworks/Libraries:** Angular, Spring, Bootstrap, Flask
 - **Fields:** Machine Learning, Artificial Intelligence
 
 ## 📫 Connect with me
